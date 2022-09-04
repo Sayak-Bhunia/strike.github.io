@@ -1,0 +1,135 @@
+body{
+  background: #1d2630;
+  text-align: center;
+  font-family: monospace;
+
+}
+
+.card{
+  background-image: url(https://i.pinimg.com/564x/02/39/bd/0239bd0da70b9892b1a5c81ec9349ff7.jpg);
+  border-radius: 8px;
+  display: inline-block;
+  height: 800px;
+  width: 390px;
+  margin-top: 30px;
+  box-shadow: 0 12px 13px rgba(0,0,0,0.16),0 12px 13px rgba(0,0,0,0.16);
+  
+
+}
+
+.img{
+  border-radius: 100%;
+  margin-top: 60px;
+  height: 128px;
+  width: 132px;
+}
+
+
+.desc{
+  font-size: 14px;
+  border-radius: 10px;
+  margin-right: 65px;
+  margin-left: 65px;
+  color: #b7b8c0;
+  margin-top: 16px;
+
+}
+
+.table{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+.chair{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+
+.programs{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+
+.vehicle{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+.food{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+.wifi{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+.nav{
+  margin-top: 20px;
+  font-size: 14px;
+  height: auto;
+  width: auto;
+  background: #272b37;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #0a0a0b;
+  
+}
+
+
+
+
+
+
